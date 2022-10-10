@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   Container(
                     height: 400,
                     width: 1000,
-                    //color: Colors.red,
+                    color: Colors.red,
                     child: Row(
                         children: List.generate(
                             4, (index) => const CourseTileWidget())),
