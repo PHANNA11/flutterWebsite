@@ -2,8 +2,6 @@ import 'dart:html';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/src/foundation/key.dart';
-import 'package:flutter/src/widgets/framework.dart';
 
 class CourseTileWidget extends StatelessWidget {
   const CourseTileWidget({Key? key}) : super(key: key);
